@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//linux/linux-rhel-6-9/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"//linux/linux-rhel-6-9/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 
@@ -17,5 +17,4 @@ Login行提示你输入登录所使用的用户名，Password行则需要输入�
 [root@RHEL6 ~]# _
 ```
 系统中默认采用的Shell为Bash，每一行输入的命令前都会有这样格式的命令提示符，其中每一个字段所代表的意思不同。
-
 [root@RHEL6 ~] 中的root代表当前登录的用户，@之后是主机名，代表登录的主机。~代表当前的工作目录，若工作目录
