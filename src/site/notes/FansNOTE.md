@@ -3,4 +3,5 @@
 ---
 
 
-# This is FansNOTE through Obisidian Digital Garden Plugin
+# Obsidian 笔记发布插件
+[[课程/Linux操作系统/Linux操作系统 - RHEL6.9复习路径|Linux操作系统 - RHEL6.9复习路径]]
